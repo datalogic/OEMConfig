@@ -1,6 +1,0 @@
-some test text
-
-Changes made to the test file for test release.
-further changes...
-
-And more changes!
